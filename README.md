@@ -33,9 +33,9 @@ _(More coming soon 🚧)_
 ## 🧑‍💻 Tech I'm Learning
 
 ```python
-languages = ["Python"]
+Languages = ["Python"]
 Tools  = ["Git", "GitHub", "VS Code"]
-concepts = [
+Concepts = [
     "Variables & Data Types",
     "If-Else & Loops",
     "Functions",
