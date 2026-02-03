@@ -30,29 +30,8 @@
 | **[Array_Practices_Problem](https://github.com/madhav-vashishtha/Array_Practices_Problem)** | Array-based problems to strengthen logic & problem solving. |
 | **[Basic_coding_problem](https://github.com/madhav-vashishtha/Basic_coding_problem)** | Beginner-friendly Python problems with solutions. |
 
----
+-
 
-## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=madhav-vashishtha&show_icons=true&theme=radical&count_private=true" />
-</p>
 
----
 
-## 📫 Contact Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/madhav-vashishtha" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:madhav@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
-
----
-
-<p align="center">
-🌱 Currently focused on mastering DSA & Python projects • Open to learning & collaboration 🚀
-</p>
