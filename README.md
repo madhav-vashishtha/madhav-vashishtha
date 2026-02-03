@@ -1,25 +1,47 @@
-<h1 align="center">Hi 👋, I'm Madhav Vashishtha</h1>
-<h3 align="center">🎓 Student | Coding Enthusiast 🐍</h3>
+# 👋 Hey there, I'm Madhav Vashishtha (aka Python-DSA-Journey)
 
-<p align="center">
-🧠 Exploring Python, Data Structures & Algorithms <br>
-💻 Practicing Problem Solving & OOP Concepts <br>
-🚀 Learning • Building • Improving every day
-</p>
+🚀 I'm an aspiring **Python developer** documenting my learning journey — from solving basic problems to mastering **Data Structures & Algorithms** and building real-world projects.
+
+This GitHub is my **learning playground**, where consistency beats perfection 💪
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🚀 What I'm Currently Working On
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> 
-<img src="https://img.shields.io/badge/DSA-ff6f61?style=for-the-badge" /> 
-<img src="https://img.shields.io/badge/OOP-00C853?style=for-the-badge" /> 
-<img src="https://img.shields.io/badge/Problem%20Solving-F57C00?style=for-the-badge" /> 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+- 🧠 Strengthening problem-solving skills with Python  
+- 📊 Learning **Data Structures & Algorithms** step by step  
+- 🔁 Practicing loops, conditionals & pattern problems  
+- 🧩 Solving OOP-based Python questions  
+- 🛠️ Building small logic-based projects  
 
 ---
+
+## 🐍 My Python Repositories
+
+Here are some cool repos to check out 👇
+
+- 📘 [Basic Python Problems](https://github.com/madhav-vashishtha)
+- 🔁 [Conditionals & Loop Practice](https://github.com/madhav-vashishtha)
+- 🧩 [OOPs in Python](https://github.com/madhav-vashishtha)
+- 📐 [Pattern Based Problems](https://github.com/madhav-vashishtha)
+- 📊 [DSA Practice (Python)](https://github.com/madhav-vashishtha)
+
+_(More coming soon 🚧)_  
+
+---
+
+## 🧑‍💻 Tech I'm Learning
+
+```python
+languages = ["Python"]
+concepts = [
+    "Variables & Data Types",
+    "If-Else & Loops",
+    "Functions",
+    "Lists, Tuples, Sets, Dictionaries",
+    "OOPs",
+    "Basic DSA"
+]
 
 ## 📌 Featured Projects
 
