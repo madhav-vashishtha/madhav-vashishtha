@@ -34,6 +34,7 @@ _(More coming soon 🚧)_
 
 ```python
 languages = ["Python"]
+Tools  = ["Git", "GitHub", "VS Code"]
 concepts = [
     "Variables & Data Types",
     "If-Else & Loops",
@@ -43,16 +44,6 @@ concepts = [
     "Basic DSA"
 ]
 
-## 📌 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| **[Basic_data_structure_problems](https://github.com/madhav-vashishtha/Basic_data_structure_problems)** | Collection of Python DSA problems for practice. |
-| **[OOPs_Practices_Problem](https://github.com/madhav-vashishtha/OOPs_Practices_Problem)** | Practice of OOP concepts in Python with examples. |
-| **[Array_Practices_Problem](https://github.com/madhav-vashishtha/Array_Practices_Problem)** | Array-based problems to strengthen logic & problem solving. |
-| **[Basic_coding_problem](https://github.com/madhav-vashishtha/Basic_coding_problem)** | Beginner-friendly Python problems with solutions. |
-
--
 
 
 
